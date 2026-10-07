@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What is supervised machine learning?",
+    "expected_answer": "Supervised machine learning uses labeled training data.",
+    "expected_keywords": ["supervised", "labeled"],
+    "expected_source": "Top 100 Machine Learning Interview Questions.pdf",
+    "should_be_answerable": true
+  },
+  {
+    "question": "What is unsupervised machine learning?",
+    "expected_answer": "Unsupervised machine learning works without labeled training data.",
+    "expected_keywords": ["unsupervised", "labeled"],
+    "expected_source": "Top 100 Machine Learning Interview Questions.pdf",
+    "should_be_answerable": true
+  },
+  {
+    "question": "What is PCA?",
+    "expected_answer": "Use the answer stated in your PDF for PCA.",
+    "expected_keywords": ["PCA"],
+    "expected_source": "Top 100 Machine Learning Interview Questions.pdf",
+    "should_be_answerable": true
+  },
+  {
+    "question": "Who is the Chief Minister of Tamil Nadu?",
+    "expected_answer": "",
+    "expected_keywords": [],
+    "expected_source": "",
+    "should_be_answerable": false
+  }
+]

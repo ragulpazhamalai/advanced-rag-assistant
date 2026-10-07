@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+rank-bm25

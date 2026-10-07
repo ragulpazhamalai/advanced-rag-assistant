@@ -1,0 +1,76 @@
+[
+  {
+    "question": "What is supervised machine learning?",
+    "answer": "Supervised machine learning is a type of machine learning where algorithms are trained using labeled data. This means that the training data includes input-output pairs, allowing the model to learn from the examples provided. For instance, in supervised learning, we might train a model to predict stock market prices using historical data that is labeled with actual prices.",
+    "confidence": "high",
+    "sources": [
+      "Top 100 Machine Learning Interview Questions.pdf"
+    ],
+    "keyword_coverage": 1.0,
+    "source_correct": true,
+    "refusal_correct": null,
+    "hit_at_k": 1,
+    "mrr": 1.0,
+    "correctness": 5,
+    "groundedness": 5,
+    "context_relevance": 5,
+    "verdict": "pass",
+    "judge_explanation": "The actual answer accurately describes supervised machine learning as a type of machine learning that uses labeled data, which aligns perfectly with the expected answer. The retrieved context supports this definition by explaining that supervised learning uses labeled training data, thus providing strong grounding and relevance.",
+    "context_chars": 1428
+  },
+  {
+    "question": "What is unsupervised machine learning?",
+    "answer": "Unsupervised machine learning is a type of machine learning that uses no labeled training data. It involves techniques such as clustering and association to analyze and group data based on similarities without prior labeling.",
+    "confidence": "high",
+    "sources": [
+      "Top 100 Machine Learning Interview Questions.pdf"
+    ],
+    "keyword_coverage": 1.0,
+    "source_correct": true,
+    "refusal_correct": null,
+    "hit_at_k": 1,
+    "mrr": 1.0,
+    "correctness": 5,
+    "groundedness": 5,
+    "context_relevance": 5,
+    "verdict": "pass",
+    "judge_explanation": "The actual answer accurately describes unsupervised machine learning as a type that uses no labeled training data, which aligns perfectly with the expected answer. The retrieved context supports this definition by explaining that unsupervised learning does not require labeled data and provides examples of techniques used in this approach.",
+    "context_chars": 796
+  },
+  {
+    "question": "What is PCA?",
+    "answer": "PCA (Principal Components Analysis) is a method for transforming features in a dataset by combining them into uncorrelated linear combinations. These new features, or principal components, sequentially maximize the variance represented, with the first principal component having the most variance, the second having the second most, and so on. PCA is useful for dimensionality reduction because you can set an arbitrary variance cutoff.",
+    "confidence": "high",
+    "sources": [
+      "Top 100 Machine Learning Interview Questions.pdf"
+    ],
+    "keyword_coverage": 1.0,
+    "source_correct": true,
+    "refusal_correct": null,
+    "hit_at_k": 1,
+    "mrr": 1.0,
+    "correctness": 5,
+    "groundedness": 5,
+    "context_relevance": 5,
+    "verdict": "pass",
+    "judge_explanation": "The actual answer accurately describes PCA as stated in the retrieved context, matching the expected answer very well. It is fully supported by the context provided, which directly addresses the question about PCA.",
+    "context_chars": 1236
+  },
+  {
+    "question": "Who is the Chief Minister of Tamil Nadu?",
+    "answer": "No relevant information is available regarding the Chief Minister of Tamil Nadu.",
+    "confidence": "low",
+    "sources": [],
+    "keyword_coverage": 1.0,
+    "source_correct": true,
+    "refusal_correct": false,
+    "hit_at_k": null,
+    "mrr": null,
+    "correctness": 5,
+    "groundedness": 5,
+    "context_relevance": 5,
+    "verdict": "pass",
+    "judge_explanation": "The answer correctly states that there is no relevant information available regarding the Chief Minister of Tamil Nadu, which aligns with the expected response that it should not be answerable.",
+    "context_chars": 41
+  }
+]
